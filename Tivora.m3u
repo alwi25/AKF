@@ -11,10 +11,6 @@ http://4smarts.xyz:80/live/7871455281577447/7425145891EB/584545.ts
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA",ANTARA
-https://drive.usercontent.google.com/u/0/uc?id=1nj_yMdulgmVz2wsiZNujyTTVf0g-X0F2&export=download
-http://tomixe.in:80/live/MAG221ARGP/MAGEX67WUA/1247858.ts
-
 #EXTINF:-1 group-title="INDONESIA",GLOBAL TV
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/830544.ts
 #EXTINF:-1 group-title="INDONESIA",I NEWS
@@ -81,6 +77,10 @@ https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-id="" tvg-name="Magna Channel " tvg-logo="https://i.postimg.cc/m2zksc4M/hq720.jpg" group-title="INDONESIA",Magna Channel 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",ANTARA
+https://drive.usercontent.google.com/u/0/uc?id=1nj_yMdulgmVz2wsiZNujyTTVf0g-X0F2&export=download
+http://tomixe.in:80/live/MAG221ARGP/MAGEX67WUA/1247858.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Ajwa TV" tvg-logo="https://www.broadcastmagz.com/wp-content/uploads/2020/11/Screenshot_20201107-2223332.png" group-title="INDONESIA",Ajwa TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
