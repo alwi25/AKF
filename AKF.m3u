@@ -6,10 +6,10 @@ http://4smarts.xyz:80/live/7871455281577447/7425145891EB/830548.ts
 https://drive.usercontent.google.com/u/0/uc?id=1MK0WbEM-k5bkCnskC9XTv5GObrP8FYek&export=download 
 #EXTINF:-1 group-title="INDONESIA",TRANS 7
 http://4smarts.xyz:80/live/7871455281577447/7425145891EB/584545.ts
-#EXTINF:-1 group-title="📺 || TIVI NASIONAL" tvg-logo="https://imgur.com/VT018Tx.png",TRANS 7
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://imgur.com/aU7FIqE.png",TRANS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
-#EXTINF:-1 group-title="INDONESIA",TRANS TV tvg-logo="https://imgur.com/aU7FIqE.png",TRANS TV
+https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TVOne" tvg-logo="https://i.pinimg.com/736x/ed/19/02/ed1902f6574c89fea5b2857149d80741.jpg" group-title="INDONESIA",TVOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
