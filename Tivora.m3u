@@ -259,7 +259,334 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=89392
 #EXTINF:-1 group-title="MIX",WILD TV
 http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=487659&extension=ts&play_token=jPU4rem1QA
 
-
+#EXTINF:-1 group-title="FILM",#JUNGLE BOOK
+http://basketswitch1324.com:8080/movie/41606002/fBars3Q923/549350.mkv
+#EXTINF:-1 group-title="FILM",#MINIONS & MONSTER
+http://basketswitch1324.com:8080/movie/41606002/fBars3Q923/707117.mkv
+#EXTINF:-1 group-title="FILM",#SONIC 2020
+http://basketswitch1324.com:8080/movie/41606002/fBars3Q923/549336.mkv
+#EXTINF:-1 group-title="FILM",#SONIC 2022
+http://basketswitch1324.com:8080/movie/41606002/fBars3Q923/549335.mkv
+#EXTINF:-1 group-title="FILM",#SPIDERMAN 1 4K
+http://line.vueott.com:80/play/movie.php?mac=00:1A:79:32:C2:4D&stream=931584.mkv&play_token=VtXg1bmQoA&type=movie
+#EXTINF:-1 group-title="FILM",#SPIDERMAN 2 4K
+http://line.vueott.com:80/play/movie.php?mac=00:1A:79:32:C2:4D&stream=951695.mkv&play_token=zbXEV9puIY&type=movie
+#EXTINF:-1 group-title="FILM",#SPIDERMAN 2023
+http://line.vueott.com:80/play/movie.php?mac=00:1A:79:32:C2:4D&stream=1313462.mkv&play_token=EZwcJ8RFug&type=movie
+#EXTINF:-1 group-title="FILM",#SPIDERMAN 3 4K
+http://line.vueott.com:80/play/movie.php?mac=00:1A:79:32:C2:4D&stream=951694.mkv&play_token=JFCYg1QHkP&type=movie
+#EXTINF:-1 group-title="FILM",#SPIDERMAN AMAZING
+http://line.vueott.com:80/play/movie.php?mac=00:1A:79:32:C2:4D&stream=1613946.mkv&play_token=1G3R8JxJ6k&type=movie
+#EXTINF:-1 group-title="FILM",#SPIDERMAN FAR
+http://line.vueott.com:80/play/movie.php?mac=00:1A:79:32:C2:4D&stream=939349.mkv&play_token=rwtsWKdwdZ&type=movie
+#EXTINF:-1 group-title="FILM",#SPIDERMAN HOME
+http://line.vueott.com:80/play/movie.php?mac=00:1A:79:32:C2:4D&stream=309789.mkv&play_token=yxzzRx1Jah&type=movie
+#EXTINF:-1 group-title="FILM",#SPIDERMAN NO WAY
+http://line.vueott.com:80/play/movie.php?mac=00:1A:79:32:C2:4D&stream=901708.mkv&play_token=Vx8gHPeVgl&type=movie
+#EXTINF:-1 group-title="FILM",20TH CENTURY FOX
+http://lolwatchtv.xyz:80/live/2f36d0075db9/5a9933f944/285050.ts
+#EXTINF:-1 group-title="FILM",ALIEN
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=1944356&extension=ts&play_token=U2UTQ40sPZ
+#EXTINF:-1 group-title="FILM",ARNOLD  S
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466881&extension=ts&play_token=FH1diyvvMU
+#EXTINF:-1 group-title="FILM",BATMAN
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466886&extension=ts&play_token=ZFMWBY5ffa
+#EXTINF:-1 group-title="FILM",CAPTAIN AMERICA
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466778&extension=ts&play_token=oRsZw5liDY
+#EXTINF:-1 group-title="FILM",CHUCKY
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466922&extension=ts&play_token=O1OaQrWxAa
+#EXTINF:-1 group-title="FILM",COMEDY
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=1944352&extension=ts&play_token=GynI342HJk
+#EXTINF:-1 group-title="FILM",CROCODILE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466812&extension=ts&play_token=RTsfDetFay
+#EXTINF:-1 group-title="FILM",FAST & FURIOUS
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466814&extension=ts&play_token=Hd3g5vNXSs
+#EXTINF:-1 group-title="FILM",FAST & FURIOUS +
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=1944453&extension=ts&play_token=D83obmV2E4
+#EXTINF:-1 group-title="FILM",FRIDAY 13TH
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=558784&extension=ts&play_token=1YRwba66qt
+#EXTINF:-1 group-title="FILM",GANGSTER
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=1944452&extension=ts&play_token=ClLMW50hiw
+#EXTINF:-1 group-title="FILM",GODFATHER
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=1944332&extension=ts&play_token=T6iTiRNqrk
+#EXTINF:-1 group-title="FILM",HARRY POTERS
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=558792&extension=ts&play_token=Rx1dJE188q
+#EXTINF:-1 group-title="FILM",HBO CHANNEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466906&extension=ts&play_token=Tn6g4w4s5a
+#EXTINF:-1 group-title="FILM",HORROR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466986&extension=ts&play_token=QFJAZjGaAn
+#EXTINF:-1 group-title="FILM",HULK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466901&extension=ts&play_token=aBogLNkeux
+#EXTINF:-1 group-title="FILM",INDIANA JONES
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=558790&extension=ts&play_token=Kg1eUnSPY1
+#EXTINF:-1 group-title="FILM",JACKIE CHAN
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=1001563&extension=ts&play_token=FGMZiiKWBg
+#EXTINF:-1 group-title="FILM",JAMES BOND
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466974&extension=ts&play_token=wYEVNq3MXQ
+#EXTINF:-1 group-title="FILM",JASON STATAM
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=1001567&extension=ts&play_token=ahAkNnldLK
+#EXTINF:-1 group-title="FILM",JET LI
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466877&extension=ts&play_token=L8r7ddeEgF
+#EXTINF:-1 group-title="FILM",JUMANJI
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466896&extension=ts&play_token=EW95YwaOdg
+#EXTINF:-1 group-title="FILM",JURASSIC
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=558785&extension=ts&play_token=zyGjst70Jh
+#EXTINF:-1 group-title="FILM",JURASSIC PARK
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=559099&extension=ts&play_token=vNHBxWxUd9
+#EXTINF:-1 group-title="FILM",JURASSIC WORLD
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466794&extension=ts&play_token=zEpWrxSXjy
+#EXTINF:-1 group-title="FILM",LEONARDO D CAPRIO
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=1944413&extension=ts&play_token=T1tsKAsJnH
+#EXTINF:-1 group-title="FILM",LORD OF THE RING
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=558782&extension=ts&play_token=hNTIuLaYWS
+#EXTINF:-1 group-title="FILM",M : 1 4K
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:32:C2:4D&stream=1447384&extension=ts&play_token=4qB6kdqcxv
+#EXTINF:-1 group-title="FILM",MATRIX
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=559102&extension=ts&play_token=23nfEb6S4g
+#EXTINF:-1 group-title="FILM",MEN IN BLACK
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=558780&extension=ts&play_token=jd0YbmzGL6
+#EXTINF:-1 group-title="FILM",MISSION IMPOSIBLE
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466895&extension=ts&play_token=oBWCggkxva
+#EXTINF:-1 group-title="FILM",MORTAL COMBAT
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466798&extension=ts&play_token=Os6WMZutwm
+#EXTINF:-1 group-title="FILM",NICHOLAS CAGE
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=1944391&extension=ts&play_token=YWkkemWBOI
+#EXTINF:-1 group-title="FILM",PIRATES OF CARIBIAN
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=558778&extension=ts&play_token=qULZR9Er4k
+#EXTINF:-1 group-title="FILM",PREDATOR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=559107&extension=ts&play_token=6hJR5OvnTT
+#EXTINF:-1 group-title="FILM",PREDATOR 24/7
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=559576&extension=ts&play_token=IOsPTtkG6R
+#EXTINF:-1 group-title="FILM",RUSH HOUR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466995&extension=ts&play_token=1904muw6Pd
+#EXTINF:-1 group-title="FILM",SCI FI MOVIES
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=558770&extension=ts&play_token=pBkqKNR8KT
+#EXTINF:-1 group-title="FILM",SPIDERMAN
+http://lolwatchtv.xyz/movie/2f36d0075db9/5a9933f944/290743.mkv
+#EXTINF:-1 group-title="FILM",STEVAN SEAGAL +
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=1944361&extension=ts&play_token=b3mY1Ru8C5
+#EXTINF:-1 group-title="FILM",STEVEN SEAGAL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=478697&extension=ts&play_token=sufaYf17Wr
+#EXTINF:-1 group-title="FILM",SUPER ACTION
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=1944360&extension=ts&play_token=XJvrXaRDru
+#EXTINF:-1 group-title="FILM",SUPER ADVENTURE
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=1944359&extension=ts&play_token=jGMVWEOqAj
+#EXTINF:-1 group-title="FILM",SUPER HERO
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=559117&extension=ts&play_token=ggHtRSggdU
+#EXTINF:-1 group-title="FILM",SUPERMAN
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=1001618&extension=ts&play_token=8uPizOjHFi
+#EXTINF:-1 group-title="FILM",SUPERMAN 24/7
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1986136&extension=ts&play_token=RgsjNVWAo0
+#EXTINF:-1 group-title="FILM",SYFY
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=855467&extension=ts&play_token=IW5ZxyiZAZ
+#EXTINF:-1 group-title="FILM",TERMINATOR
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466821&extension=ts&play_token=Pv62Pq0HZm
+#EXTINF:-1 group-title="FILM",TEXAS CHAINMOKER
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=558779&extension=ts&play_token=dBQyebWicZ
+#EXTINF:-1 group-title="FILM",TOM CRUISE
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=1944328&extension=ts&play_token=UQ3Wf4FzoA
+#EXTINF:-1 group-title="FILM",TRANSFORMER
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466890&extension=ts&play_token=xkcue93Eky
+#EXTINF:-1 group-title="FILM",VAN DAMME
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=1466780&extension=ts&play_token=wKNCxpd6ok
+#EXTINF:-1 group-title="FILM",VAN DAMME+
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=558787&extension=ts&play_token=nCNPmpLPTu
+#EXTINF:-1 group-title="FILM INDO",24 JAM
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1100678.mkv&play_token=GU74zFbQyG&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",7 HARI TERAKHIR
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMODlVbzR0SDZmOUZSN1FjWFZ0NGdJUitMQ0xiaTg4bk1VR2dQY1lQZWNQTg
+#EXTINF:-1 group-title="FILM INDO",@3 BERSAHABAT
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1425373.mp4
+#EXTINF:-1 group-title="FILM INDO",@AGEN +62
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1374357.mp4
+#EXTINF:-1 group-title="FILM INDO",@AIR MATA BUAYA
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1441228.mp4
+#EXTINF:-1 group-title="FILM INDO",@AIR MATA DI UJUNG SAJADAH
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1392138.mp4
+#EXTINF:-1 group-title="FILM INDO",@AKU SEBELUM AKU
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1459813.mp4
+#EXTINF:-1 group-title="FILM INDO",@ALAS ROBAN 2026
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1430993.mp4
+#EXTINF:-1 group-title="FILM INDO",@ARWAH
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1367261.mp4
+#EXTINF:-1 group-title="FILM INDO",@BAD BOY IN LOVE
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1420428.mp4
+#EXTINF:-1 group-title="FILM INDO",@BALAS BUDI
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1448218.mp4
+#EXTINF:-1 group-title="FILM INDO",@BUSINES PROPOSAL
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1463616.mp4
+#EXTINF:-1 group-title="FILM INDO",@CINTA DOSA & LUKA
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1359636.mp4
+#EXTINF:-1 group-title="FILM INDO",@COCOTE TONGGO
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1359854.mp4
+#EXTINF:-1 group-title="FILM INDO",@DANUR 2026
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1462294.mp4
+#EXTINF:-1 group-title="FILM INDO",@DARAH HITAM
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1386250.mp4
+#EXTINF:-1 group-title="FILM INDO",@DAUN JENDELA
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1389387.mp4
+#EXTINF:-1 group-title="FILM INDO",@DOPAMIN
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1404506.mp4
+#EXTINF:-1 group-title="FILM INDO",@DOSA MUSRIK
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1437893.mkv
+#EXTINF:-1 group-title="FILM INDO",@GOWOK KAMASUTRA JAWA
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1360457.mp4
+#EXTINF:-1 group-title="FILM INDO",@HANTU DI DALAM TELPON
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1469736.mp4
+#EXTINF:-1 group-title="FILM INDO",@JADI TUH BARANG
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1404511.mp4
+#EXTINF:-1 group-title="FILM INDO",@JANJI JONI
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1384661.mp4
+#EXTINF:-1 group-title="FILM INDO",@JANUR IRENG
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1414200.mp4
+#EXTINF:-1 group-title="FILM INDO",@JRMBATAN SHIROTOL MUSTAKIM
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1386246.mp4
+#EXTINF:-1 group-title="FILM INDO",@KABINET SANTET
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1431001.mp4
+#EXTINF:-1 group-title="FILM INDO",@KAFIR 2026
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1448130.mp4
+#EXTINF:-1 group-title="FILM INDO",@MERTUA NGERI KALI
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1408040.mp4
+#EXTINF:-1 group-title="FILM INDO",@MIMPI KELUARGA SEMPURNA
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1355416.mp4
+#EXTINF:-1 group-title="FILM INDO",@MOTHERNET
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1433385.mp4
+#EXTINF:-1 group-title="FILM INDO",@PAMALI : TUMBAL
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1362505.mp4
+#EXTINF:-1 group-title="FILM INDO",@PASANGAN YANG TERCEKIK
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1403974.mp4
+#EXTINF:-1 group-title="FILM INDO",@PENANTIAN BUAH HATI
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1356497.mp4
+#EXTINF:-1 group-title="FILM INDO",@PENERBANGAN TERAKHIR
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1456511.mp4
+#EXTINF:-1 group-title="FILM INDO",@PESAN DARI NERAKA
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1376394.mp4
+#EXTINF:-1 group-title="FILM INDO",@PINGIN HIJRAH
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1392501.mp4
+#EXTINF:-1 group-title="FILM INDO",@PUANG BOS
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1404512.mp4
+#EXTINF:-1 group-title="FILM INDO",@SAMSARA
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1376391.mp4
+#EXTINF:-1 group-title="FILM INDO",@SEBELUM NENEK MENANGKAP
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1431000.mp4
+#EXTINF:-1 group-title="FILM INDO",@SENIN HARGA NAIK
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1464316.mp4
+#EXTINF:-1 group-title="FILM INDO",@SI PALING AKTOR
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1394890.mp4
+#EXTINF:-1 group-title="FILM INDO",@SOSOK KETIGA
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1397746.mp4
+#EXTINF:-1 group-title="FILM INDO",@SUKMA
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1376390.mp4
+#EXTINF:-1 group-title="FILM INDO",@SUZANNA SANTET 2026
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1459810.mp4
+#EXTINF:-1 group-title="FILM INDO",@TAKDIR MIMPI
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1350338.mp4
+#EXTINF:-1 group-title="FILM INDO",@THE INVICIBLE GUEST
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1471257.mkv
+#EXTINF:-1 group-title="FILM INDO",@TIMUR
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1405289.mp4
+#EXTINF:-1 group-title="FILM INDO",@TUKAR TAKDIR
+http://tomixe.in:80/movie/MAG221ARGP/MAGEX67WUA/1355420.mp4
+#EXTINF:-1 group-title="FILM INDO",ABANG ADIK
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1125778.mkv&play_token=SLmawd593T&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",AGAK LAEN
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1125780.mkv&play_token=KnQ26iEQs7&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",AIR MATA DI UJUNG SAJADAH
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1100680.mkv&play_token=b7TCdPWo1h&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",ALI TOPAN
+http://sbhgoldpro.org:80/play/movie.php?mac=00:1A:79:C5:3D:DD&stream=1125781.mkv&play_token=32hligS1R4&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",BAYANGAN YANG TERSESAT
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1175193.mkv&play_token=r3OeLgxv8T&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",BOMBS
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1104829.mkv&play_token=E34CE98Rl5&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",BUKU SIJJIN
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMemNBMlBtZHFNVTFFOTdKUDVHRnFYREtSZ0svejhtUFJyNnkwYm1oclNHNA
+#EXTINF:-1 group-title="FILM INDO",BUYA HAMKA
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=947789.mkv&play_token=1jjUdRVRCJ&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",DEVIL FEMALE
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1175237.mkv&play_token=sM8km7d89m&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",HADAPI PERPISAHAN
+http://sbhgoldpro.org:80/play/movie.php?mac=00:1A:79:C5:3D:DD&stream=1100706.mkv&play_token=yqUgjGPWqV&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",HALLO HANTU
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=957442.mkv&play_token=5RXOSHeC3z&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",HAMKA & SITI RAHAM
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1104838.mkv&play_token=bAl1JCmg9M&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",HARTA & TAHTA
+http://sbhgoldpro.org:80/play/movie.php?mac=00:1A:79:C5:3D:DD&stream=1175214.mkv&play_token=6K6swjlgaE&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",INDIGO
+http://sbhgoldpro.org:80/play/movie.php?mac=00:1A:79:C5:3D:DD&stream=1100707.mkv&play_token=79H1jKhqbH&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",ISTRI DARI
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMdzY1L1NsL3Bocmt2RGhvT1hES0FWZnN4ZUN6TFhHOTBNS1V1VjRWckFlMA
+#EXTINF:-1 group-title="FILM INDO",JABANG MAYIT
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMMnByQnI0Nm5wOFFJYWZrc09SbGo4ZFJqNW1IOGdocmVEV3RLd2ZCKzhscw
+#EXTINF:-1 group-title="FILM INDO",JANJI DARAH
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1175222.mkv&play_token=ooOnBghBGJ&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",JIKA APA
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=957443.mkv&play_token=bvQFL2DaX7&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",JURNAL LISA
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1175224.mkv&play_token=5D6gDOTcyw&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",KERASUKAN
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1175239.mkv&play_token=tgDyaORgDh&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",KETIKA BERHENTI DISINI
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1175207.mkv&play_token=Ay4APkQPo8&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",KUTUKAN CALON ARANG
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMK3lEUi8vb1Q0OUtvcDN3ZVNMa2NaZ24wTEE5Q1NidkVyVlN0ZStSdlNQWQ
+#EXTINF:-1 group-title="FILM INDO",KUYANG
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1155813.mkv&play_token=3VABSwAVEp&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",LEAK 2
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMMkRHZHR0STFkYjRXNlR2eW5pUU9IYlpoSWN5em04cjVhdGw0NjBnZlVmOA
+#EXTINF:-1 group-title="FILM INDO",LIHAT APA
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1175207.mkv&play_token=Ljp2E1ongf&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",MANTRA SURUGUNA
+http://sbhgoldpro.org:80/play/movie.php?mac=00:1A:79:C5:3D:DD&stream=1100715.mkv&play_token=YJnb7cqrPx&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",MUNGKIN ESOK LUSA
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1175232.mkv&play_token=RLPnhpNoCR&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",PAMALI 2025
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMd2lZWUhJSVBZZ2pLVEFJaHpObnNOT1dBU0g4YzJNa09MbzZUa1R3ekQzbg
+#EXTINF:-1 group-title="FILM INDO",PASANGAN LUCU
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1155822.mkv&play_token=v1Q7tl0gHW&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",PEMBANTAIAN PARA PENYIHIR
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMNEowTXNFYlhtZWRIYVFKdnlzcTV1Ky8vLzNMTk1DOHdVR25NRThlM211UQ
+#EXTINF:-1 group-title="FILM INDO",PENGANTIN IBLIS
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMNndNVWtqY1RXRmc5OHFXc1BYblBqaVJxYTZtOFU2aEVZUWlwUTFLa3pFZA
+#EXTINF:-1 group-title="FILM INDO",PENGURUS SETAN
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMOCtSQXQ0L2NYMDRoZktFRk1PRW5hc3h5M3dOcHY4V2FObkdmQzV6NUk1WA
+#EXTINF:-1 group-title="FILM INDO",PERANCANG
+http://mag.jee-ott.xyz:80/play/movie.php?mac=00:1A:79:B6:20:D2&stream=1708863.mkv&play_token=6tYSRgzXFn&type=movie
+#EXTINF:-1 group-title="FILM INDO",PEREWANGAN
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMMlprM3pLV3RTbVJMVXlzNlpIK3Y2RXVHZmtTeVd3cU1OVmdmWXhnU1NIWQ
+#EXTINF:-1 group-title="FILM INDO",PRIMBON
+http://sbhgoldpro.org:80/play/movie.php?mac=00:1A:79:C5:3D:DD&stream=1100725.mkv&play_token=YVhySqTvzw&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",RAMUAN AJAIB
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMOWQ3MEJvUTAySWRFcjhHM0RRWlhEcEE0T0w0T25ORm00RE9haFZzYXlqLw
+#EXTINF:-1 group-title="FILM INDO",SELEPAS TAHLIL
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMMHN2ZUx1c3JrNUs0OHpLVkdGVndYcHBGcFFhYVdqcDFLRnIvekZzbTZoVQ
+#EXTINF:-1 group-title="FILM INDO",SIKSA BERAT
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1175211.mkv&play_token=viuRP2rVeb&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",SIKSA NERAKA
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1104849.mkv&play_token=107ZTOy3X5&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",SINGSOT
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMejIxVXRNeG1ac3NSVE9VS0RRU0JJRmFRcm5JaC9NSjNUK0xYTkt2SEpkZQ
+#EXTINF:-1 group-title="FILM INDO",SISI LUAR
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1175236.mkv&play_token=ig051ZzLwC&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",SOROP
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMOU0xbmozNGQwN3MweEx0a2FQbHFrdnA5NExhWEgwV0tkQmQwelFldCtEeA
+#EXTINF:-1 group-title="FILM INDO",SURAT UNTUK TUHAN
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1155834.mkv&play_token=4BPxdG1UwO&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",TELAGA SURIRAM
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMK2hFUW1vcW5UQkFKZ2Q3TXlvb3h2MCtycmg0VWFjbC9tTFlOdUswY3JQTA
+#EXTINF:-1 group-title="FILM INDO",TEMURUN
+http://vod.supremetv.live:80/play/movie.php?mac=00:1A:79:6F:61:7C&stream=1708917.mkv&play_token=4UWKbtgZ3g&type=movie
+#EXTINF:-1 group-title="FILM INDO",TRINIL
+http://16243-sides.cdn-o2.me:80/play/movie.php?mac=00:1A:79:47:35:8F&stream=1104858.mkv&play_token=4qJVF2hjlQ&type=movie&sn2=
+#EXTINF:-1 group-title="FILM INDO",UTUSAN IBLIS
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMLzRtQjJnUnJDcXB3dHhGazlpamZJaCszYmxUV3VnamhEaXRpelJRMGVvSw
+#EXTINF:-1 group-title="FILM INDO",WAKTU MAGHRIB 2
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMMjZhaExKZHZzV29vVGtKbFNPeURITjhNNHZ3U2ExZTZscXJIeHBvdGdmVg
+#EXTINF:-1 group-title="FILM INDO",WAKTU MAGRIB
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMMmI2SWp0Q210cVlDclluY1ZVcGp5WnRGUmJKWHN2MGVFMC9CQndITi9USg
+#EXTINF:-1 group-title="FILM INDO",WANITA AHLI NERAKA
+http://maventv.one:80/aUI3MzMrR3d3Mkk0dHdtNGhjdjBMNGlLN1FPS3VVYlV6aG94Wi93bTlWL3lrbG5yWFc0dk1GbEFzWjVVd1Zsdw
 
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV ID" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/Spotv.png" group-title="SPORTS",SPOTV ID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
