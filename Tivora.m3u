@@ -163,6 +163,175 @@ https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 #EXTINF:-1 group-title="KIDS"tvg-logo="https://www.mncvision.id/userfiles/image/ARTIKEL%20MNC%20VISION/MY%20KIDS.png",MY KIDZ
 https://cdnbal1.indihometv.com/atm/DASH/mykids/manifest.mpd
 
+#EXTINF:-1 group-title="HBO MAX",HBO 2 RAW
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1282819&extension=ts&play_token=bsZmdtWfe7
+#EXTINF:-1 group-title="HBO MAX",HBO 3 RAW
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1530172&extension=ts&play_token=OsmnRym07S
+#EXTINF:-1 group-title="HBO MAX",HBO GO 1
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1282823&extension=ts&play_token=YJMOesoCS5
+#EXTINF:-1 group-title="HBO MAX",HBO GO 2
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1282822&extension=ts&play_token=Wcxmb4RkyS
+#EXTINF:-1 group-title="HBO MAX",HBO GO 3
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1282821&extension=ts&play_token=DNAJhrM2MO
+#EXTINF:-1 group-title="HBO MAX",HBO GO 4
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1282819&extension=ts&play_token=bsZmdtWfe7
+#EXTINF:-1 group-title="HBO MAX",HBO MAX 1
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=705106&extension=ts&play_token=L9MU8JpWuA
+#EXTINF:-1 group-title="HBO MAX",HBO MAX 2
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=705104&extension=ts&play_token=kyZZnrOiXb
+#EXTINF:-1 group-title="HBO MAX",HBO MAX 3
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=705103&extension=ts&play_token=1xHQ0fArer
+#EXTINF:-1 group-title="HBO MAX",HBO MAX 4
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=705102&extension=ts&play_token=xvAiB1jzF3
+#EXTINF:-1 group-title="HBO MAX",HBO MAX 5
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=705101&extension=ts&play_token=rPAMk9k40F
+#EXTINF:-1 group-title="HBO MAX",HBO MAX 6
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=705100&extension=ts&play_token=dQ44pzzBuX
+#EXTINF:-1 group-title="HBO MAX",HBO MAX 7
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=705099&extension=ts&play_token=aiC0tLSkkj
+#EXTINF:-1 group-title="HBO MAX",HBO MAX 8
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=705105&extension=ts&play_token=Ag3mwGXpaT
+#EXTINF:-1 group-title="HBO MAX",HBO MAX 9
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=569118&extension=ts&play_token=pad6RsEaA2
+#EXTINF:-1 group-title="HBO MAX",HULU 1
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1275563&extension=ts&play_token=TPSmd0aFCS
+#EXTINF:-1 group-title="HBO MAX",HULU 2
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1275566&extension=ts&play_token=upNlOQAKta
+#EXTINF:-1 group-title="HBO MAX",HULU 3
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1275562&extension=ts&play_token=o1tokJhSa3
+#EXTINF:-1 group-title="HBO MAX",HULU 4
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1275564&extension=ts&play_token=FnUysrvkf4
+#EXTINF:-1 group-title="HBO MAX",HULU 5
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1275561&extension=ts&play_token=XPfY76LTpn
+#EXTINF:-1 group-title="HBO MAX",HULU 6
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1275556&extension=ts&play_token=qjkPTgssaj
+#EXTINF:-1 group-title="MIX",ADVENTURE 1
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=689718&extension=ts&play_token=HTVju0PvKw
+#EXTINF:-1 group-title="MIX",ADVENTURE 3
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=281275&extension=ts&play_token=QoAORZN4MO
+#EXTINF:-1 group-title="MIX",AMC
+http://dksmedia.tv:80/play/live.php?mac=00:1A:79:6c:79:20&stream=45445&extension=ts&play_token=cM8pRNMxyT
+#EXTINF:-1 group-title="MIX",ANIMAL PLANET
+http://teleflixhd.club:80/live/276078/avqmpQ/71774.ts
+#EXTINF:-1 group-title="MIX",ANIMAL PLANET ENG
+http://line.sweet-4k.cc:80/live/4A0C88/758AA5/356051.ts
+#EXTINF:-1 group-title="MIX",ANIMAL PLANET NL
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=561975&extension=ts&play_token=ooLV4jtjNT
+#EXTINF:-1 group-title="MIX",ANIMAL PLANET US
+http://line.sweet-4k.cc:80/live/4A0C88/758AA5/311502.ts
+#EXTINF:-1 group-title="MIX",ANIMAL WEST
+http://line.sweet-4k.cc:80/live/4A0C88/758AA5/104413.ts
+#EXTINF:-1 group-title="MIX",BAYWATCH
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:32:C2:4D&stream=1920912&extension=ts&play_token=lgsCg2DIiE
+#EXTINF:-1 group-title="MIX",BAYWATCH FHD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=1430426&extension=ts&play_token=SOUugfHAJv
+#EXTINF:-1 group-title="MIX",BBC EART SONY
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=373071&extension=ts&play_token=OEtdx4ghgt
+#EXTINF:-1 group-title="MIX",BBC EARTH
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=671271&extension=ts&play_token=j3hHmCh1HN
+#EXTINF:-1 group-title="MIX",BBC EARTH 2
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=1728895&extension=ts&play_token=5ADXgauPao
+#EXTINF:-1 group-title="MIX",BBC EARTH IND
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=1444174&extension=ts&play_token=M36IzHL8da
+#EXTINF:-1 group-title="MIX",BBC EARTH TR
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=373492&extension=ts&play_token=IUcySIvSSR
+#EXTINF:-1 group-title="MIX",CLASSIC TV
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:32:C2:4D&stream=1430426&extension=ts&play_token=9KEjukZrTw
+#EXTINF:-1 group-title="MIX",COWBOY CHANEL
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=105188&extension=ts&play_token=3MMcSdf2RV
+#EXTINF:-1 group-title="MIX",DISCOVERY
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=155745&extension=ts&play_token=WK4bnJWLoS
+#EXTINF:-1 group-title="MIX",EARTH NATURE 4K
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=602027&extension=ts&play_token=zTwM3tSPkF
+#EXTINF:-1 group-title="MIX",EARTH PLANET
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=70061&extension=ts&play_token=prOUfnfh2T
+#EXTINF:-1 group-title="MIX",EARTH TV
+http://me.mdmfista.com:80/play/live.php?mac=00:1B:79:48:10:11&stream=858792&extension=ts&play_token=DB0XqIkVTn
+#EXTINF:-1 group-title="MIX",EARTHX TV
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=70061&extension=ts&play_token=prOUfnfh2T
+#EXTINF:-1 group-title="MIX",FASHION PINK
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=263105&extension=ts&play_token=0wykm1G1yt
+#EXTINF:-1 group-title="MIX",FASHION TV
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=293562&extension=ts&play_token=u5MXrpwHaT
+#EXTINF:-1 group-title="MIX",FASHION TV UHD
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=260781&extension=ts&play_token=oDf8mLwwnK
+#EXTINF:-1 group-title="MIX",FEAR FACTOR
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:32:C2:4D&stream=866289&extension=ts&play_token=bBAqXP5ScP
+#EXTINF:-1 group-title="MIX",FEAR FACTOR 2
+http://skipcf.cwdn.cx:80/play/live.php?mac=00:1A:79:79:6F:62&stream=979207&extension=ts&play_token=OBzeSiLAGW
+#EXTINF:-1 group-title="MIX",FEAR FACTOR US
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=1430334&extension=ts&play_token=Dz2GgiSiMe
+#EXTINF:-1 group-title="MIX",FISHING
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=679497&extension=ts&play_token=vVV9pDb0JD
+#EXTINF:-1 group-title="MIX",FISHING HUNTING
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=1985803&extension=ts&play_token=ILjBz7W9Kr
+#EXTINF:-1 group-title="MIX",FISHING NETWORK
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=487658&extension=ts&play_token=cOy3KqF4pc
+#EXTINF:-1 group-title="MIX",FOOD NETWORK
+http://procdnnet.eu:80/play/live.php?mac=00:1A:79:B5:AD:1B&stream=549404&extension=ts&play_token=pJwIwRz5vm
+#EXTINF:-1 group-title="MIX",HISTORY
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=155738&extension=ts&play_token=bthPB3J5Lp
+#EXTINF:-1 group-title="MIX",JUST FISHING
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:C7:08:3E&stream=1025353&extension=ts&play_token=qeSkLD74mv
+#EXTINF:-1 group-title="MIX",LOVE ISLAND
+http://vod.supremetv.live:80/play/live.php?mac=00:1A:79:6F:61:7C&stream=1919720&extension=ts&play_token=n2dtvPNWjk
+#EXTINF:-1 group-title="MIX",LOVE NATURE
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:32:C2:4D&stream=1698690&extension=ts&play_token=eYKfw0CCRt
+#EXTINF:-1 group-title="MIX",LOVE NATURE FHD
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=1131804&extension=ts&play_token=Q4J4iwpy08
+#EXTINF:-1 group-title="MIX",MUSEUM
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=1632124&extension=ts&play_token=pNwbQ7djhi
+#EXTINF:-1 group-title="MIX",NAT GEO WILD 1
+http://line.sweet-4k.cc:80/live/4A0C88/758AA5/105686.ts
+#EXTINF:-1 group-title="MIX",NAT GEO WILD 2
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:32:C2:4D&stream=1283273&extension=ts&play_token=KWasY3K3oT
+#EXTINF:-1 group-title="MIX",NAT GEO WILD 4K
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=699420&extension=ts&play_token=8L8kduh5bz
+#EXTINF:-1 group-title="MIX",NAT GEO WILD AIRTEL
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=281666&extension=ts&play_token=H3IIllMC59
+#EXTINF:-1 group-title="MIX",NAT GEOGRAPHIC
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=262982&extension=ts&play_token=ki6WsG4zzA
+#EXTINF:-1 group-title="MIX",NATURE EXPLORER
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=1921576&extension=ts&play_token=bYG0bmsDcG
+#EXTINF:-1 group-title="MIX",NINJA WARIOR
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:32:C2:4D&stream=1920849&extension=ts&play_token=yGyN2EgWgv
+#EXTINF:-1 group-title="MIX",OUTDOR TV
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=487666&extension=ts&play_token=tibDbrvCDF
+#EXTINF:-1 group-title="MIX",PARAMOUNT 1
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:7B:7B:21&stream=855369&extension=ts&play_token=iZOYBRUuk8
+#EXTINF:-1 group-title="MIX",PB TV 1
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=675188&extension=ts&play_token=Al2hLuNWe2
+#EXTINF:-1 group-title="MIX",PB TV 2
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=675188&extension=ts&play_token=Al2hLuNWe2
+#EXTINF:-1 group-title="MIX",PB TV 3
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=675187&extension=ts&play_token=aNOy2aw6wi
+#EXTINF:-1 group-title="MIX",PB TV 4
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=675186&extension=ts&play_token=GHcjb90Eui
+#EXTINF:-1 group-title="MIX",PB TV 5
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=943995&extension=ts&play_token=l1eQUqj21g
+#EXTINF:-1 group-title="MIX",PB TV 6
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=944011&extension=ts&play_token=ZKbFmpc8pR
+#EXTINF:-1 group-title="MIX",PB TV 7
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=944010&extension=ts&play_token=V4Jfz8FS3Y
+#EXTINF:-1 group-title="MIX",PB TV 8
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=944008&extension=ts&play_token=daVcB4HwHC
+#EXTINF:-1 group-title="MIX",PB TV 9
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=944007&extension=ts&play_token=pIg9Ph17N9
+#EXTINF:-1 group-title="MIX",PLUTO ANIMAL
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=281653&extension=ts&play_token=GErmYd4blk
+#EXTINF:-1 group-title="MIX",SHOWTIME EXTREEM
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:B0:00:DA&stream=91887&extension=ts&play_token=KK2v87AflU
+#EXTINF:-1 group-title="MIX",SKY NATURE
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=798715&extension=ts&play_token=WUJFIx7Wkz
+#EXTINF:-1 group-title="MIX",SPEED VISION
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=942131&extension=ts&play_token=XuaXN5sZDu
+#EXTINF:-1 group-title="MIX",TRAVEL CHANEL
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=626953&extension=ts&play_token=XfBveziZSn
+#EXTINF:-1 group-title="MIX",TRAVEL XP
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1B:79:4A:12:AF&stream=893920&extension=ts&play_token=C4EVu0bEEz
+#EXTINF:-1 group-title="MIX",WILD TV
+http://16243-sides.cdn-o2.me:80/play/live.php?mac=00:1A:79:47:35:8F&stream=487659&extension=ts&play_token=jPU4rem1QA
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV ID" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/Spotv.png" group-title="SPORTS",SPOTV ID
