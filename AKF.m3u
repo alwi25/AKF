@@ -3545,75 +3545,1108 @@ https://live1.quickscoreboardz.com/live/channel61.m3u8?wsSecret=f076b35c7f66b915
 #EXTINF:-1 tvg-logo="https://shorter.me/BI7_g" group-title="LIVE EVENT",20TH Asian Games Court 1
 https://cdn-vl-gcp-bornan-e-01.vos360.video/Content/LiveEvent/42ef9c34-2ae5-4b11-b6dc-f3a5378a582d/HLS_ENC/index.m3u8
 
-# CCTV Channels
-#EXTINF:-1 tvg-name="CCTV-1 Umum" group-title="CCTV", CCTV-1 Umum
-http://36.32.99.215:5003/cctv1.m3u8
-#EXTINF:-1 tvg-name="CCTV-2 Ekonomi" group-title="CCTV", CCTV-2 Ekonomi
-http://36.32.99.215:5003/cctv2.m3u8
-#EXTINF:-1 tvg-name="CCTV-3 Hiburan" group-title="CCTV", CCTV-3 Hiburan
-http://36.32.99.215:5003/cctv3.m3u8
-#EXTINF:-1 tvg-name="CCTV-4 Internasional" group-title="CCTV", CCTV-4 Internasional
-http://36.32.99.215:5003/cctv4.m3u8
-#EXTINF:-1 tvg-name="CCTV-5+ Olahraga Event" group-title="CCTV", CCTV-5+ Olahraga Event
-http://36.32.99.215:5003/cctv5p.m3u8
-#EXTINF:-1 tvg-name="CCTV-5 Olahraga" group-title="CCTV", CCTV-5 Olahraga
-http://36.32.99.215:5003/cctv5.m3u8
-#EXTINF:-1 tvg-name="CCTV-6 Film" group-title="CCTV", CCTV-6 Film
-http://36.32.99.215:5003/cctv6.m3u8
-#EXTINF:-1 tvg-name="CCTV-7 Militer & Pertanian" group-title="CCTV", CCTV-7 Militer & Pertanian
-http://36.32.99.215:5003/cctv7.m3u8
-#EXTINF:-1 tvg-name="CCTV-8 Drama" group-title="CCTV", CCTV-8 Drama
-http://36.32.99.215:5003/cctv8.m3u8
-#EXTINF:-1 tvg-name="CCTV-9 Dokumenter" group-title="CCTV", CCTV-9 Dokumenter
-http://36.32.99.215:5003/cctv9.m3u8
-#EXTINF:-1 tvg-name="CCTV-10 Ilmu Pengetahuan" group-title="CCTV", CCTV-10 Ilmu Pengetahuan
-http://36.32.99.215:5003/cctv10.m3u8
-#EXTINF:-1 tvg-name="CCTV-11 Opera Tradisional" group-title="CCTV", CCTV-11 Opera Tradisional
-http://36.32.99.215:5003/cctv11.m3u8
-#EXTINF:-1 tvg-name="CCTV-12 Hukum & Masyarakat" group-title="CCTV", CCTV-12 Hukum & Masyarakat
-http://36.32.99.215:5003/cctv12.m3u8
-#EXTINF:-1 tvg-name="CCTV-13 Berita" group-title="CCTV", CCTV-13 Berita
-http://36.32.99.215:5003/cctv13.m3u8
-#EXTINF:-1 tvg-name="CCTV-14 Anak-Anak" group-title="CCTV", CCTV-14 Anak-Anak
-http://36.32.99.215:5003/cctv14.m3u8
-#EXTINF:-1 tvg-name="CCTV-15 Musik" group-title="CCTV", CCTV-15 Musik
-http://36.32.99.215:5003/cctv15.m3u8
-#EXTINF:-1 tvg-name="CCTV-16 UHD" group-title="CCTV", CCTV-16 UHD
-http://36.32.99.215:5003/cctv16.m3u8
-#EXTINF:-1 tvg-name="CCTV-17 Pertanian" group-title="CCTV", CCTV-17 Pertanian
-http://36.32.99.215:5003/cctv17.m3u8
 
-# Saluran Khusus & Tematik
-#EXTINF:-1 tvg-name="Saluran Teknologi Senjata" group-title="Tematik", Senjata & Teknologi
-http://36.32.99.215:5003/live1743.m3u8
-#EXTINF:-1 tvg-name="Panggung Drama Pertama" group-title="Drama", Drama Pertama
-http://36.32.99.215:5003/live1372.m3u8
-#EXTINF:-1 tvg-name="Drama Nostalgia" group-title="Drama", Drama Nostalgia
-http://36.32.99.215:5003/live1425.m3u8
-#EXTINF:-1 tvg-name="Panggung Aksi" group-title="Drama", Drama Aksi
-http://36.32.99.215:5003/live1478.m3u8
-#EXTINF:-1 tvg-name="Musik Populer" group-title="Musik", Musik Populer
-http://36.32.99.215:5003/live1531.m3u8
-#EXTINF:-1 tvg-name="Sepak Bola" group-title="Olahraga", Sepak Bola
-http://36.32.99.215:5003/live1584.m3u8
-#EXTINF:-1 tvg-name="Pilihan CCTV" group-title="CCTV", CCTV Pilihan
-http://36.32.99.215:5003/live1637.m3u8
-#EXTINF:-1 tvg-name="Gaya Hidup Wanita" group-title="Gaya Hidup", Gaya Hidup Wanita
-http://36.32.99.215:5003/live1690.m3u8
-#EXTINF:-1 tvg-name="Golf & Tenis" group-title="Olahraga", Golf & Tenis
-http://36.32.99.215:5003/live1796.m3u8
-#EXTINF:-1 tvg-name="Biliar CCTV" group-title="Olahraga", Biliar CCTV
-http://36.32.99.215:5003/live1849.m3u8
 
-# Saluran Edukasi
-#EXTINF:-1 tvg-name="CETV-1 Edukasi" group-title="Pendidikan", CETV-1 Edukasi
-http://36.32.99.215:5003/live1020.m3u8
-
-# Saluran Daerah & Provinsi
-#EXTINF:-1 tvg-name="Beijing TV" group-title="Daerah", Beijing TV
-http://36.32.99.215:5003/bjws.m3u8
-#EXTINF:-1 tvg-name="Shanghai (Dongfang) TV" group-title="Daerah", Shanghai (Dongfang) TV
-http://36.32.99.215:5003/dfws.m3u8
-#EXTINF:-1 tvg-name="Tianjin TV" group-title="Daerah", Tianjin TV
-http://36.32.99.215:5003/tjws.m3u8
-#EXTINF:-1 tvg-name="Chongqing TV" group-title="Daerah", Chongqing TV
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B8%F0%9F%94%B8%20Collected%20by%20@mimipipi22%20menampilkan%20playlist%20%3E%3E%3E%20NEWS
+#EXTINF:0,CNN INT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.mpd
+#EXTINF:0,BBC NEWS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:0,DW ENGLISH
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mediampd/DwEnglishHD.mpd
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/DwEnglishHD/mediampd/DwEnglishHD.mpd
+#EXTINF:0,FRANCE24
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemeshield1-voe.sysln.id/live/eds/France24/mediampd/France24.mpd
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/France24/mediampd/France24.mpd
+#EXTINF:0,TRT WORLD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemeshield1-voe.sysln.id/live/eds/TRTWorldHD/mediampd/TRTWorldHD.mpd
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/TRTWorldHD/mediampd/TRTWorldHD.mpd
+#EXTINF:0,ALJAZEERA ENGLISH
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/AlJazeeraIntHD/mediampd/AlJazeeraIntHD.mpd
+#EXTINF:0,ALJAZEERA ARAB
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/AlJzrArab/mediampd/AlJzrArab.mpd
+#EXTINF:0,RT ENGLISH
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemeshield1-voe.sysln.id/live/eds/RussiaTodayHD/mediampd/RussiaTodayHD.mpd
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/RussiaTodayHD/mediampd/RussiaTodayHD.mpd
+#EXTINF:0,EURONEWS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
+#EXTINF:0,CNA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/CNAHD/mediampd/CNAHD.mpd
+#EXTINF:0,CGTN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/CGTN/mediampd/CGTN.mpd
+#EXTINF:0,WION
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wion-world-is-one-news/index.m3u8
+#EXTINF:0,CNBC ASIA
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
+#EXTVLCOPT:network-caching=1000
+https://fta3-cdn-flr.visionplus.id/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
+#EXTINF:0,BLOOMBERG
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.mpd
+#EXTINF:0,IDX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mediampd/IDXChannelHD.mpd
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/IDXChannelHD/mediampd/IDXChannelHD.mpd
+#EXTINF:0,JAKARTA GLOBE CHANNEL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
+#EXTVLCOPT:network-caching=1000
+https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglobe/srtoutput/manifest.m3u8
+#EXTINF:0,ASTRO AWANI
+#EXTVLCOPT:network-caching=1000
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B8%F0%9F%94%B8%20Collected%20by%20@mimipipi22%20menampilkan%20playlist%20%3E%3E%3E%20KNOWLEDGE
+#EXTINF:0,BBC EARTH
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
+#EXTVLCOPT:network-caching=1000
+https://fta1-cdn-flr.visionplus.id/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
+#EXTINF:0,CGTN DOC
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mediampd/CGTNDocumentaryHD.mpd
+#EXTINF:0,CRIME INVESTIGATION
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mediampd/CrimeInvestigationHD.mpd
+#EXTINF:0,DISCOVERY CHANNEL
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:network-caching=1000
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
+#EXTINF:0,DISCOVERY ASIA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsiaHD.mpd
+#EXTINF:0,DMAX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mediampd/DMAXHD.mpd
+#EXTINF:0,OUTDOOR CHANNEL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
+#EXTVLCOPT:network-caching=1000
+https://fta2-cdn-flr.visionplus.id/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
+#EXTINF:0,HISTORY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mediampd/HistoryHD.mpd
+#EXTINF:0,ANIMAL PLANET
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:network-caching=1000
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest_w816003161_qRFZS.mpd?encp=&uid=&expp=
+#EXTVLCOPT:network-caching=1000
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+#EXTINF:0,LOVE NATURE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mediampd/LoveNatureHD.mpd
+#EXTINF:0,CURIOSITY
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:network-caching=1000
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest_w1897293060_qRFZS.mpd?encp=&uid=&expp=
+#EXTVLCOPT:network-caching=1000
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
+#EXTINF:0,DENS KNOWLEDGE
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8?app_type=web&userid=lite&chname=DensKnowledge
+#EXTINF:0,BIZNET ADVENTURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
+#EXTVLCOPT:http-origin=http://www.biznetvideo.net
+#EXTVLCOPT:network-caching=1000
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
+#EXTINF:0, KNOWLEDGE+
+#EXTVLCOPT:network-caching=1000
+https://cdnjktbpid22.transvision.co.id/riutx01/dash/S25vd2xlZGdlKw/manifest.mpd
+#EXTINF:0,Discovering China
+#EXTVLCOPT:network-caching=1000
+https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://ml-pull-hwc.myco.io/CGTN/hls/index.m3u8
+#EXTINF:0,CGTN Global Biz
+#EXTVLCOPT:network-caching=1000
+https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://ml-pull-hwc.myco.io/CGTN6/hls/index.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B8%F0%9F%94%B8%20Collected%20by%20@mimipipi22%20menampilkan%20playlist%20%3E%3E%3E%20KIDS
+#EXTINF:0,KIDS TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+#EXTVLCOPT:network-caching=1000
+https://fta3-cdn-flr.visionplus.id/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+#EXTINF:0,CARTOON NETWORK
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:network-caching=1000
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest_w209786680_qRFZS.mpd?encp=&uid=&expp=
+#EXTVLCOPT:network-caching=1000
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+#EXTINF:0,CARTOONITO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoHD.mpd
+#EXTINF:0,DREAMWORKS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mediampd/DreamWorksHD.mpd
+#EXTINF:0,NICK
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mediampd/Nickelodeon.mpd
+#EXTINF:0,NICK JR
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/NickJr/mediampd/NickJr.mpd
+#EXTINF:0,CARTOON TV PREMIUM
+#EXTVLCOPT:network-caching=1000
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
+#EXTINF:0,CARTOON TV
+#EXTVLCOPT:network-caching=1000
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
+#EXTINF:0,CARTOON TV CLASSICS
+#EXTVLCOPT:network-caching=1000
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
+#EXTINF:0,MOONBUG
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
+#EXTVLCOPT:network-caching=1000
+https://fta1-cdn-flr.visionplus.id/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
+#EXTINF:0,CBEEBIES BBC
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
+#EXTVLCOPT:network-caching=1000
+https://fta4-cdn-flr.visionplus.id/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
+#EXTINF:0,ZOO MOO
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+#EXTVLCOPT:network-caching=1000
+https://fta3-cdn-flr.visionplus.id/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
+#EXTINF:0,MENTARI TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:network-caching=1000
+https://gooo.blog/opix/genx.m3u8?id=mentaritv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+#EXTINF:0,DUNIA ANAK
+#EXTVLCOPT:network-caching=1000
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+#EXTINF:0,DUNIA ANAK (BACKUP)
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:network-caching=1000
+https://cdn10jtedge.indihometv.com/atm/DASH/duniaanak/manifest.mpd
+#EXTVLCOPT:network-caching=1000
+https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
+#EXTINF:0,VIVA TV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:network-caching=1000
+https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+#EXTVLCOPT:network-caching=1000
+http://202.169.224.202:8800/udp/239.9.1.39:1234
+#EXTINF:0,HOREE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
+#EXTINF:0,HIP HIP HOREE!
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://202.169.224.202:8800/udp/239.9.1.28:1234
+#EXTVLCOPT:network-caching=1000
+https://mimipipi22.github.io/logo/offline.m3u8
+#EXTINF:0,MAX KIDS
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:network-caching=1000
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+#EXTVLCOPT:network-caching=1000
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+#EXTINF:0,MY KIDZ
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:network-caching=1000
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+#EXTINF:0,BIZNET KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
+#EXTVLCOPT:http-origin=http://www.biznetvideo.net
+#EXTVLCOPT:network-caching=1000
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=BFQE_NtUYLScAUYvx2vpe9IsezHwkSHpL8q-eqK12ZvrexZJmhAVeqDFTOrWvYXR
+#EXTINF:0,SPACETOON
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:network-caching=1000
+https://gooo.blog/opix/genx.m3u8?id=spacetoon&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+#EXTINF:0, EBS KIDS
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:network-caching=1000
+https://gooo.blog/opix/genx.m3u8?id=ebskids&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+#EXTINF:0,KIDS ZONE PLUS
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:network-caching=1000
+https://gooo.blog/opix/genx.m3u8?id=kidszoneplus&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+#EXTINF:0,PLANET FUN
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:network-caching=1000
+https://gooo.blog/opix/genx.m3u8?id=planetfun&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+#EXTINF:0,DEI KIDS
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:network-caching=1000
+https://gooo.blog/opix/genx.m3u8?id=deikids&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+#EXTINF:0,DEI KIDS
+#EXTVLCOPT:network-caching=1000
+https://flv.intechmedia.net/live/ch29.m3u8?%7Cuser-agent=YouTV/1.5.6-prod.release%20(Linux;Android%207.1.1)
+#EXTINF:0,KARTOON CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:network-caching=1000
+https://gooo.blog/opix/genx.m3u8?id=kartoon&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B8%F0%9F%94%B8%20Collected%20by%20@mimipipi22%20menampilkan%20playlist%20%3E%3E%3E%20MUSIC
+#EXTINF:0,MUSIC TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+#EXTVLCOPT:network-caching=1000
+https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+#EXTINF:0,MTV CLASSIC
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+http://104.250.144.202:37829/
+#EXTINF:0,MTV LIVE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+http://104.250.144.202:46183/
+#EXTINF:0,MTV U
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+http://104.250.144.202:46183/
+#EXTINF:0,MUSIK INDONESIA
+#EXTVLCOPT:network-caching=1000
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+#EXTINF:0,PRAMBORS TV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:network-caching=1000
+https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/manifest.mpd
+#EXTVLCOPT:network-caching=1000
+http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/264761
+#EXTINF:0,CITRA DANGDUT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
+#EXTVLCOPT:network-caching=1000
+http://202.169.224.202:8800/udp/239.9.1.13:1234
+#EXTINF:0,NOW 70s
+#EXTVLCOPT:network-caching=1000
+https://amg01076-amg01076c1-mytvsuper-apac-7840.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
+#EXTVLCOPT:network-caching=1000
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,NOW 80s
+#EXTVLCOPT:network-caching=1000
+https://amg01076-amg01076c2-mytvsuper-apac-7839.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
+#EXTVLCOPT:network-caching=1000
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,NOW 90s
+#EXTVLCOPT:network-caching=1000
+https://amg01076-amg01076c19-mytvsuper-apac-7915.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
+#EXTINF:0,NOW ROCK
+#EXTVLCOPT:network-caching=1000
+https://amg01076-amg01076c3-mytvsuper-apac-7835.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
+#EXTVLCOPT:network-caching=1000
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,CDI
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:network-caching=1000
+http://gooo.blog/opix/genx.m3u8?id=cdi&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+#EXTINF:0,Matrix
+#EXTVLCOPT:network-caching=1000
+https://stream.matrixtv.id/hls/stream.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B8%F0%9F%94%B8%20Collected%20by%20@mimipipi22%20menampilkan%20playlist%20%3E%3E%3E%20RELIGION
+#EXTINF:0,TV9
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/TV9/mediampd/TV9.mpd
+#EXTINF:0,DMI TV
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:network-caching=1000
+https://d2tjypxxy769fn.cloudfront.net/out/v1/319544fbde164be4b023d62fcd116d14/index.mpd
+#EXTINF:0,TVMU
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://fta1-cdn-flr.visionplus.id/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
+#EXTINF:0,MUSLIM TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
+#EXTVLCOPT:network-caching=1000
+https://fta1-cdn-flr.visionplus.id/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
+#EXTINF:0,CITRA MUSLIM
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
+#EXTVLCOPT:network-caching=1000
+http://202.169.224.202:8800/udp/239.9.1.14:1234
+#EXTINF:0,MUITV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:network-caching=1000
+https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd
+#EXTINF:0,MTATV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:network-caching=1000
+https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
+#EXTINF:0,MQTV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:network-caching=1000
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8
+#EXTINF:0,AL QURAN KAREEM
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemeshield1-voe.sysln.id/live/eds/ALQuranAlKareem/mediampd/ALQuranAlKareem.mpd
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/ALQuranAlKareem/mediampd/ALQuranAlKareem.mpd
+#EXTINF:0,SUNNA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
+#EXTINF:0,RODJA TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&userid=lite&chname=RodjaTV
+#EXTINF:0,PIJAR TV
+#EXTVLCOPT:network-caching=1000
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd
+#EXTINF:0,KHAZANAH
+#EXTVLCOPT:network-caching=1000
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+#EXTINF:0,TBN ASIA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/TBNAsia/mediampd/TBNAsia.mpd
+#EXTINF:0,GMS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemeshield1-voe.sysln.id/live/eds/GMSChannelHD/mediampd/GMSChannelHD.mpd
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/GMSChannelHD/mediampd/GMSChannelHD.mpd
+#EXTINF:0,KAIROS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mediampd/Kairos.mpd
+#EXTINF:0,EWTN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mediampd/EWTN.mpd
+#EXTINF:0,LIFE
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://fta2-cdn-flr.visionplus.id/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
+#EXTINF:0,REFORMED 21
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/Reformed21HD/mediampd/Reformed21HD.mpd
+#EXTINF:0,U-CHANNEL
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:network-caching=1000
+https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd
+#EXTINF:0,HOPE
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTVLCOPT:network-caching=1000
+https://gooo.blog/opix/genx.m3u8?id=hope&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B8%F0%9F%94%B8%20Collected%20by%20@mimipipi22%20menampilkan%20playlist%20%3E%3E%3E%20LIFESTYLE
+#EXTINF:0,GLOBAL TREKKER
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mediampd/GlobalTrekkerHD.mpd
+#EXTINF:0,FOOD TRAVEL
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
+#EXTVLCOPT:network-caching=1000
+https://fta1-cdn-flr.visionplus.id/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
+#EXTINF:0,AFN
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
+#EXTVLCOPT:network-caching=1000
+http://202.169.224.202:8800/udp/239.9.1.5:1234
+#EXTINF:0,HGTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mediampd/HGTVHD.mpd
+#EXTINF:0,FOOD NETWORK
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd
+#EXTINF:0,TLC
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
+#EXTINF:0,BBC LIFESTYLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
+#EXTINF:0,BBC LIFESTYLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:network-caching=1000
+https://ast.livecricketsl.live/proxy/sg.php/https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
+#EXTINF:0,FASHION TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
+#EXTINF:0,GLOBAL FASHION CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:network-caching=1000
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:0,WORLD FASHION CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:network-caching=1000
+https://cdn.wfc.tv/cdn/stream-eng.m3u8
+#EXTINF:0,KALOOPY TV
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/df2e1f8e-4f47-41b0-bd26-626e8a63caf2/2.m3u8
+#EXTINF:0,BIZNET LIFESTYLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
+#EXTVLCOPT:http-origin=http://www.biznetvideo.net
+#EXTVLCOPT:network-caching=1000
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=ZGw2r-CvzSlCW2-mTyu97hp8bHZXc9LY43O5moeKhLM1ppWpWrh6ZoIHFlbN75DU
+#EXTINF:0,DENS LIFESTYLE
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8?app_type=web&userid=lite&chname=DensLifenStyle
+#EXTINF:0,DENS PLAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://op-group1-densxvisionhd-1.dens.tv/h/h225/index.m3u8
+#EXTINF:0,DENSFOOD CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+https://op-group1-densxvisionhd-1.dens.tv/h/h248/index.m3u8
+#EXTINF:0,CREMA TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:network-caching=1000
+https://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8?app_type=web&userid=lite&chname=Crema_TV
+#EXTINF:0,EAT N GO
+#EXTVLCOPT:network-caching=1000
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
+#EXTINF:0,TRAVEL TV
+#EXTVLCOPT:network-caching=1000
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060aab83c40b9/manifest.mpd
+#EXTINF:0,FIRST LIFESTYLE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:network-caching=1000
+https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLifestyleHD.mpd
+#EXTINF:0,BIZNET LIFESTYLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
+#EXTVLCOPT:http-origin=http://www.biznetvideo.net
+#EXTVLCOPT:network-caching=1000
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:0,TV5 MONDE STYLE
+#EXTVLCOPT:network-caching=1000
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
+#EXTINF:0,China Travel
+#EXTVLCOPT:network-caching=1000
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B8%F0%9F%94%B8%20Collected%20by%20@mimipipi22%20menampilkan%20playlist%20%3E%3E%3E%20MIX
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[NASIONAL%20TV]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://mimipipi22.github.io/logo/offline.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[MOVIES]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://mimipipi22.github.io/logo/offline.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[LINE]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0,Star Cinema
+#EXTVLCOPT:network-caching=1000
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=6743dbc3fb7aa20b270802ff&AV_CHANNEL_NAME=Starmedia&AV_CONTENT_LANGUAGE=en&AV_CONTENT_RATING=
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[LINE]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0,Asian Box
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
+#EXTVLCOPT:network-caching=1000
+https://cdn3.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
+#EXTINF:0,MovieBox
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
+#EXTINF:0,Cinema
+#EXTVLCOPT:network-caching=1000
+https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[LINE]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0,UNIVERSAL PREMIERE #EXTVLCOPT:network-caching=1000
+https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
+#EXTINF:0,MN+
+#EXTVLCOPT:network-caching=1000
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+#EXTVLCOPT:network-caching=1000
+https://get.perfecttv.net/dashVision.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=mnplus
+#EXTVLCOPT:network-caching=1000
+https://times-ott-live.akamaized.net/v1/dash/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_drm_mnplus/out/v1/254ff351a5d543a88abf92189bff886e/index.mpd
+#EXTVLCOPT:network-caching=1000
+https://times-ott-live.akamaized.net/v1/dash/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_drm_mnxhd/out/v1/405c7c835d534bc8afcf9cd5daa7f77d/index.mpd
+#EXTINF:0,MNX HD
+#EXTVLCOPT:network-caching=1000
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+#EXTVLCOPT:network-caching=1000
+https://get.perfecttv.net/dashVision.mpd?username=vip_sgnep6z9&password=dBlA1nxq&channel=mnxhd
+#EXTINF:0,MOVIES NOW
+#EXTVLCOPT:network-caching=1000
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+#EXTINF:0,ROMEDY NOW
+#EXTVLCOPT:network-caching=1000
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+#EXTINF:0,B4U MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#EXTVLCOPT:network-caching=1000
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+#EXTINF:0,BIZ CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#EXTVLCOPT:network-caching=1000
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
+#EXTINF:0,STAR MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://107.175.220.4:11799/starmovies_raj/playlist.m3u8
+#EXTINF:0,3rsSINEPINOY
+#EXTVLCOPT:network-caching=1000
+https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,3rsTV
+#EXTVLCOPT:network-caching=1000
+https://live20.bozztv.com/giatvplayout7/giatv-210631/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0,New Kmovies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:network-caching=1000
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=7737
+#EXTINF:0,Hi-Yah
+#EXTVLCOPT:network-caching=1000
+https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[ENTERTAINMENT]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://mimipipi22.github.io/logo/offline.m3u8
+#EXTINF:0,BBC America
+#EXTVLCOPT:network-caching=1000
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:0,Cinemaworld #EXTVLCOPT:network-caching=1000
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
+#EXTINF:0,Warner TV #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
+#EXTINF:0,OCN Movies
+#EXTVLCOPT:network-caching=1000
+https://ocnmovies2-drm2-mcdn.tving.com/ocnmovies2_drm/live5000.smil/manifest.mpd
+#EXTINF:0,OCN
+#EXTVLCOPT:network-caching=1000
+http://ocn-drm2-mcdn.tving.com/ocn_drm/live5000.smil/manifest.mpd
+#EXTINF:0,Korean Drama SD
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
+#EXTINF:0,Asian Crush
+#EXTVLCOPT:network-caching=1000
+https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/mainManifest.m3u8?app_bundle=https://www.asiancrush.com&app_name=asiancrush&app_store_url=&url=https://www.asiancrush.com&genre=Documentary,Independent,Sci-Fi%20&%20Fantasy,Kids%20&%20Family,Drama,Romance,Comedy,Action%20&%20Adventure,Sports&ic=&us_privacy=1YNN&gdpr=0&gdpr_consent=0&did=vir_webe2f1f1c449b2b43d72e1a991a25f2666&dnt=1&coppa=0
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[LINE]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0,TNT MX
+#EXTVLCOPT:network-caching=1000
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/tnt_hd/default/index.mpd
+#EXTINF:0,TNT (PXL)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+#EXTVLCOPT:network-caching=1000
+https://hd.crisphd.top/play/pAVJjXWDXadNqa4ml_eoyJSO2iA8oqrCm7aKbssPYac/.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[LINE]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0,&TV HD
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
+#EXTINF:0,&TV
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+#EXTINF:0,&PICTURES HD
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+#EXTINF:0,&PICTURES SD
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
+#EXTINF:0,Z TV SD
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+#EXTINF:0,Z TV HD
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
+#EXTINF:0,Z Cinema HD
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+#EXTINF:0,Z Cinema HD
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+#EXTINF:0,Z Cinema SD
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+#EXTINF:0, Zee Bollywood
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
+#EXTINF:1,Zee Anmol
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
+#EXTINF:0, Zee Anmol Cinema
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
+#EXTINF:0,Zing
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+#EXTINF:0,Zee Action
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
+#EXTINF:0,ZOOM
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[LINE]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0, STAR VISION
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+#EXTVLCOPT:network-caching=1000
+https://streams2.sofast.tv/ptnr-yupptv/title-STAR-VISION-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6248c6d3-6b6c-4b88-ae8f-a7c119ab380a/manifest.m3u8?hdnts=st%3D1758606460~exp%3D1758628060~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-STAR-VISION-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F6248c6d3-6b6c-4b88-ae8f-a7c119ab380a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.208.182_yuppfast_2_channel_74_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.208.182_yuppfast_2_channel_74_-1~hmac%3Dc67efad5e5d630d905ebdf1fa63a1e14fa303bddb63de699ded81c57d3541293
+#EXTINF:0,KOREAN DRAMA ACTIVE
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
+#EXTINF:0,SHOSRTS TV ACTIVE
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
+#EXTINF:0,ION
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ion-tablo/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/cadd5511-0fda-4045-94b6-4dd982fa63e7/playlist.m3u8
+#EXTINF:0,ION Mystery
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://wurlewscripps.global.transmit.live/hls/68f94986a2037bf6aaa6d716/v1/scripps_ionmystery_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/f1a3d6ca-6a7e-453b-8e89-dc06a46c870c/playlist.m3u8
+#EXTINF:0,ION Plus
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://ad6cad3b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfSW9uUGx1c19ITFM/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://live-manifest.production-public.tubi.io/live/2fd87230-572e-47ef-8bae-c282f99b174c/playlist.m3u8
+#EXTINF:0,Grit Xtra
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+#EXTINF:0,CW Gold
+#EXTVLCOPT:network-caching=1000
+https://d1d726ny1vain2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/playlist.m3u8
+#EXTINF:0,CW Forever
+#EXTVLCOPT:network-caching=1000
+https://d1sknsnbkyvie.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/playlist.m3u8
+#EXTINF:0,CJ E&M #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:network-caching=1000
+https://d50a1g0nh14ou.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/CJ-ENM-prod/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/playlist.m3u8
+#EXTINF:0,tvN #EXTVLCOPT:network-caching=1000
+https://d2hbbjdi2lggii.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbr4a75paq6du-ssai-prd/080e7b54_ab07_49c8_b8e3_8811cf63fde2/hls/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[LINE]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0, MYX Global #EXTVLCOPT:network-caching=1000
+https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
+#EXTINF:0, TFC Asia #EXTVLCOPT:network-caching=1000
+https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
+#EXTINF:0, TFC Canada #EXTVLCOPT:network-caching=1000
+https://du44jtt5g7upx.cloudfront.net/out/v1/a3b708325c1d43dc9549c262526a6945/index.mpd
+#EXTINF:0, TFC Premium #EXTVLCOPT:network-caching=1000
+https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[LINE]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[SPORTS]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://mimipipi22.github.io/logo/offline.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[LINE]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0,CT SPORT #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#EXTVLCOPT:network-caching=1000
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
+#EXTINF:0,EUROSPORT 1 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:network-caching=1000
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+#EXTINF:0,EUROSPORT 2 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:network-caching=1000
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+#EXTINF:0,NOVA SPORT 1 #EXTVLCOPT:network-caching=1000
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+#EXTINF:0,NOVA SPORT 2 #EXTVLCOPT:network-caching=1000
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+#EXTINF:0,SPORT 1 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#EXTVLCOPT:network-caching=1000
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+#EXTINF:0,SPORT 2 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#EXTVLCOPT:network-caching=1000
+https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+#EXTINF:0,JOJ SPORT #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#EXTVLCOPT:network-caching=1000
+https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
+#EXTINF:0,JOJ SPORT 2 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#EXTVLCOPT:network-caching=1000
+https://dash3.antik.sk/stream/nvidia_joj_sport_2/playlist_cbcs.mpd
+#EXTINF:0,RTVS SPORT #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#EXTVLCOPT:network-caching=1000
+https://dash3.antik.sk/stream/nvidia_rtvs_sport/playlist_cbcs.mpd
+#EXTINF:0,AUTO MOTOR AND SPORT #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#EXTVLCOPT:network-caching=1000
+https://dash2.antik.sk/stream/hisi_ams/playlist_cbcs.mpd
+#EXTINF:0,GOLF CHANNEL #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+#EXTVLCOPT:network-caching=1000
+https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
+#EXTINF:0,FIGHT BOX #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+#EXTVLCOPT:network-caching=1000
+https://dash3.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
+#EXTINF:0,FAST AND FUNBOX #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/
+#EXTVLCOPT:http-origin=https://webtv.sk
+#EXTVLCOPT:network-caching=1000
+https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[LINE]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0,Premier League TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://cors-everywhere-wc8b4.ondigitalocean.app/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+#EXTINF:0,Sony Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C65/master.m3u8
+#EXTVLCOPT:network-caching=1000
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/sonyten1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C72/master.m3u8
+#EXTVLCOPT:network-caching=1000
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/sonyten2/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sony Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
+#EXTINF:0,Sony Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C244/master.m3u8
+#EXTINF:0,Star Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/sonyten5/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:network-caching=1000
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C248/master.m3u8
+#EXTVLCOPT:network-caching=1000
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C283/master.m3u8
+#EXTINF:0,Star Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:network-caching=1000
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
+#EXTVLCOPT:network-caching=1000
+https://warm-caverns-48629-92fab798385f.herokuapp.com/http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
+#EXTINF:0,Star Sports Select 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/starselect1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Star Sports Select 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/starselect2/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sky Sports Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C688/master.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[LINE]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0, Sportsnet ONE
+#EXTVLCOPT:network-caching=1000
+https://7pal.short.gy/sptsnet1
+#EXTINF:0, Sportsnet 360
+#EXTVLCOPT:network-caching=1000
+https://7pal.short.gy/sptsnet360
+#EXTINF:0, Sportsnet Ontario
+#EXTVLCOPT:network-caching=1000
+https://7pal.short.gy/sptsneton
+#EXTINF:0, TSN 1 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#EXTVLCOPT:network-caching=1000
+https://7pal.short.gy/tsn1ca
+#EXTINF:0, TSN 2 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#EXTVLCOPT:network-caching=1000
+https://7pal.short.gy/tsn2ca
+#EXTINF:0, TSN 3 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#EXTVLCOPT:network-caching=1000
+https://7pal.short.gy/tsn3ca
+#EXTINF:0, TSN 4 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#EXTVLCOPT:network-caching=1000
+https://7pal.short.gy/tsn4ca
+#EXTINF:0, TSN 5 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+#EXTVLCOPT:network-caching=1000
+https://7pal.short.gy/tsn5ca
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[LINE]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0, TNT Sport 1 #EXTVLCOPT:network-caching=1000
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTVLCOPT:network-caching=1000
+https://7pal.short.gy/tntspts1
+#EXTINF:0, TNT Sport 2 #EXTVLCOPT:network-caching=1000
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTVLCOPT:network-caching=1000
+https://7pal.short.gy/tntspts2
+#EXTINF:0, TNT Sport 3 #EXTVLCOPT:network-caching=1000
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTVLCOPT:network-caching=1000
+https://7pal.short.gy/tntspts3
+#EXTINF:0, TNT Sport 4 #EXTVLCOPT:network-caching=1000
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTVLCOPT:network-caching=1000
+https://7pal.short.gy/tntspts4
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[LINE]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0,BUNDESLIGA 2
+#EXTVLCOPT:network-caching=1000
+https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[WORLD%20SPORTS]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0, AL KASS 1
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+#EXTVLCOPT:network-caching=1000
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
+#EXTINF:0, AL KASS 2
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+#EXTVLCOPT:network-caching=1000
+https://liveeu-gcp.alkassdigital.net/alkass2-p/main.m3u8
+#EXTINF:0, AL KASS 3
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+#EXTVLCOPT:network-caching=1000
+https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8
+#EXTINF:0, AL KASS 4
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+#EXTVLCOPT:network-caching=1000
+https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
+#EXTINF:0, AL KASS 5
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+#EXTVLCOPT:network-caching=1000
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTVLCOPT:network-caching=1000
+https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[LINE]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0,SpoTv Now
+#EXTVLCOPT:http-referrer=https://www.mana2.my/
+#EXTVLCOPT:network-caching=1000
+https://slive.mana2.my/SpotvNow/index.mpd
+#EXTINF:0,Premier Sports #EXTVLCOPT:network-caching=1000
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd
+#EXTINF:0,Premier Sports 2 #EXTVLCOPT:network-caching=1000
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/premiersports2hd/default/index.mpd
+#EXTINF:0,CBS Sports HQ (720p)
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
+#EXTINF:0,Dazn Ringside
+#EXTVLCOPT:network-caching=1000
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+#EXTINF:0,BEIN SPORTS MAX 5 #EXTVLCOPT:network-caching=1000
+https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
+#EXTINF:0,BEIN SPORTS MAX 6 #EXTVLCOPT:network-caching=1000
+https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
+#EXTINF:0,BEIN SPORTS MAX 7 #EXTVLCOPT:network-caching=1000
+https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
+#EXTINF:0,BEIN SPORTS MAX 8 #EXTVLCOPT:network-caching=1000
+https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
+#EXTINF:0,BEIN SPORTS MAX 9 #EXTVLCOPT:network-caching=1000
+https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
+#EXTINF:0,BEIN SPORTS MAX 10 #EXTVLCOPT:network-caching=1000
+https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
+#EXTINF:0,SpoTV #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#EXTVLCOPT:network-caching=1000
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+#EXTINF:0,SpoTV 2 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#EXTVLCOPT:network-caching=1000
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+#EXTINF:0,Tv4Futbol #EXTVLCOPT:network-caching=1000
+https://live.streaming.a2d.tv/asset/20465725.isml/dash.mpd
+#EXTINF:0,TV4 Tennis #EXTVLCOPT:network-caching=1000
+https://live.streaming.a2d.tv/asset/20465727.isml/dash.mpd
+#EXTINF:0,TVP Sport
+#EXTVLCOPT:network-caching=1000
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#EXTINF:0,DAZN FAST
+#EXTVLCOPT:network-caching=1000
+https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
+#EXTINF:0,TYC Sports
+#EXTVLCOPT:network-caching=1000
+https://bvclive1.boldmss.com/TYC_SPORTS/TYC_SPORTS_BVC.isml/TYC_SPORTS.mpd
+#EXTINF:0,ONE SPORT #EXTVLCOPT:network-caching=1000
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
+#EXTINF:0,ONE SPORTS+ #EXTVLCOPT:network-caching=1000
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
+#EXTINF:0, Setanta Sports
+#EXTVLCOPT:network-caching=1000
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561002/index.mpd
+#EXTINF:0, Setanta Sports 2
+#EXTVLCOPT:network-caching=1000
+https://v4-kun-nk16-cdn-01.live.cdn.cgates.lt/live/dash/561504/index.mpd
+#EXTINF:0, GO3 Sport 1
+#EXTVLCOPT:network-caching=1000
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[LINE]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0,ARENA SPORT 1 PREMIUM #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/7635.ts
+#EXTINF:0,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" group-title="WORLD SPORTS" - ARENA SPORT 2 PREMIUM #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/7636.ts
+#EXTINF:0,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" group-title="WORLD SPORTS" - ARENA SPORT 3 PREMIUM #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/7637.ts
+#EXTINF:0,ARENA SPORT 1 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/222.ts
+#EXTINF:0,ARENA SPORT 2 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/221.ts
+#EXTINF:0,ARENA SPORT 3 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/220.ts
+#EXTINF:0,ARENA SPORT 4 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/219.ts
+#EXTINF:0,ARENA SPORT 5 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/218.ts
+#EXTINF:0,ARENA SPORT 6 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/21060.ts
+#EXTINF:0,ARENA SPORT 7 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/21061.ts
+#EXTINF:0,ARENA SPORT 8 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/21062.ts
+#EXTINF:0,ARENA SPORT 9 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/21063.ts
+#EXTINF:0,ARENA SPORT 10 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/21064.ts
+#EXTINF:0,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" group-title="WORLD SPORTS" - ARENA SPORT 1X2 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/21065.ts
+#EXTINF:0,ARENA SPORT TENIS #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/21066.ts
+#EXTINF:0,Sport Klub #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/211.ts
+#EXTINF:0,Sport Klub 1 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/217.ts
+#EXTINF:0,Sport Klub 2 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/216.ts
+#EXTINF:0,Sport Klub 3 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/214.ts
+#EXTINF:0,Sport Klub 4 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/215.ts
+#EXTINF:0,Sport Klub 5 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/213.ts
+#EXTINF:0,Sport Klub 6 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/212.ts
+#EXTINF:0,Sport Klub 7 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/6753.ts
+#EXTINF:0,Sport Klub 8 #EXTVLCOPT:network-caching=1000
+http://roi-tv.net:9000/live/total.iptv/Skype-18-11-2019-TOTAL.TV/6754.ts
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%20[LINE]%20%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9%F0%9F%94%B9
+#EXTINF:0,KBSN Sports KR
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:network-caching=1000
+http://live-114.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=SQuHD7cISYiboGZRb3O0wkHG2XNxR5DUyZqqP8FF&secret=dbb984cb4a0e1f03e915ac9266883845&time=1736162356
