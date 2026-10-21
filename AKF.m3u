@@ -17,7 +17,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685651d7bcc01651f0db
 https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100_sleng.m3u8
 
 
-#EXTINF:-1 group-title="INDONESIA", INDOSIAR tvg-logo="https://imgur.com/K6fAZNn.png",INDOSIAR >On/Off
+#EXTINF:-1 group-title="INDONESIA", INDOSIAR tvg-logo="https://imgur.com/K6fAZNn.png",INDOSIAR
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #EXTVLCOPT:http-origin=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
